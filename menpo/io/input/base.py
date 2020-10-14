@@ -520,7 +520,7 @@ def import_pickles(
     shuffle=False,
     as_generator=False,
     verbose=False,
-    **kwargs,
+    **kwargs
 ):
     r"""Multiple pickle importer.
 
